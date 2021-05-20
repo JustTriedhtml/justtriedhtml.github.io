@@ -1,2 +1,2 @@
 # justtriedhtml.github.io
-Just tried to publish
+just started learning HTML so tried publishing some shit.
